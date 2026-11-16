@@ -1,0 +1,6 @@
+{
+  "name": "GlucoWise",
+  "description": "Diabetes-conscious AI meal intelligence, glucose tracking, and daily lifestyle planner.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
